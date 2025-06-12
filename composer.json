@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "*",
+        "smalot/pdfparser": "^2.12",
+        "dompdf/dompdf": "^3.1",
+        "phpmailer/phpmailer": "*"
+    }
+}
