@@ -1,3 +1,5 @@
+Hướng dẫn thực hiện
+
 Tạo thư mục duan1 chứa toàn bộ file
 
 Tạo database
